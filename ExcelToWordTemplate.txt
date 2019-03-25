@@ -178,6 +178,7 @@ Dim TestStr As String
     End If
 End Function
 
+'function only used for testing, unused in final implementation
 Function FindEmail(memNameTo_text As String, memEmailTo_text As String) As String
 
         Dim sheetTarget As Integer
